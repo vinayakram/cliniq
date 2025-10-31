@@ -1,0 +1,15 @@
+cliniq/
+│
+├── app.py
+├── requirements.txt
+├── RUN_CLiniQ.bat
+├── README.md
+│
+├── cliniq.db                  (auto-created on first run)
+│
+├── pages/
+│   ├── __init__.py            (empty file)
+│   ├── utils.py
+│   └── ai_insights.py
+│
+└── venv/                      (auto-created by RUN_CLiniQ.bat)
